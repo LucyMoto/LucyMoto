@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LucyMoto
-- 👀 I’m interested in data science! 
-- 🌱 I’m currently learning python
+- 👀 I love data science
 - 💞️ I’m looking to collaborate over coffee ;) 
 - 📫 Reach me via LinkedIn: Lucy Michaels
 - 😄 Pronouns: she/her
